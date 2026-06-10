@@ -1,6 +1,0 @@
-{
-  "name": "Virtual LAN Network Adapter",
-  "description": "A Virtual LAN Network Adapter coordinator with STUN/TURN mDNS/SSDP broadcast routing, WebRTC peer-to-peer file transfer, and complete Rust native TAP/TUN client agent code.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
